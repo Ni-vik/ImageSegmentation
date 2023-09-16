@@ -83,3 +83,4 @@ In summary, a ResNet-50 based PSPNet is a deep learning architecture that levera
 
 ![Alt Text](https://github.com/Ni-vik/ImageSegmentation/blob/main/images/resnet%2050%20segmented.png)
 
+## Vgg_unet
