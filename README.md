@@ -39,6 +39,13 @@ SegNet is a deep learning architecture designed for semantic segmentation tasks 
 In summary, SegNet is an encoder-decoder architecture designed for semantic segmentation tasks, with a unique focus on preserving spatial information using max-pooling indices and skip connections. It has found applications in various fields where accurate pixel-wise classification is essential.
 
 ## Results using Segnet 
+### Input image
+
+![Alt Text](https://github.com/Ni-vik/ImageSegmentation/blob/main/images/input.png)
+
+### Output image
+
+![Alt Text](https://github.com/Ni-vik/ImageSegmentation/blob/main/images/segnet.png)
 
 ## ResNet50 
 
@@ -84,3 +91,13 @@ In summary, a ResNet-50 based PSPNet is a deep learning architecture that levera
 ![Alt Text](https://github.com/Ni-vik/ImageSegmentation/blob/main/images/resnet%2050%20segmented.png)
 
 ## Vgg_unet
+
+## Results using Vgg_unet
+
+### Input image
+
+![Alt Text](https://github.com/Ni-vik/ImageSegmentation/blob/main/images/input.png)
+
+### Output image
+
+![Alt Text](https://github.com/Ni-vik/ImageSegmentation/blob/main/images/vgg_unet.png)
