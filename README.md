@@ -158,7 +158,8 @@ There are two ways to achieve this:
 2. The manual method : 
 You can use various image annotation softwares. One such is VGG image annotator (VIA) by Oxford university. 
 Video tutorial for VIA : <a href = "https://www.youtube.com/watch?v=AYLJ3YC07oI">Click Me!</a> 
-The above video does not have the code s here's a colab file for speeding things up : <a href = "https://colab.research.google.com/drive/12XxXG-ZQryopv-resY6VUa5QGjnD_hJc?usp=sharing>Link</a>
+The above video does not have the code s here's a colab file for speeding things up :
+<a href = "https://colab.research.google.com/drive/12XxXG-ZQryopv-resY6VUa5QGjnD_hJc?usp=sharing">Link</a>
 
 ### Preparing dataset in batches using Imagetraingenerator in tensorflow
 
